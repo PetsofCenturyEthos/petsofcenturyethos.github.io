@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Century Ethos Pets — how to use the complaint portal
 <p align="center">
   <img src="assets/images/PHOTO-2026-08-26-00-03-07.jpg" alt="QR Code" width="300">
